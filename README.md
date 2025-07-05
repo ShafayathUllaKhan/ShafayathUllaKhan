@@ -19,7 +19,7 @@
   </a>
 
     
-  <a href="[https://www.linkedin.com/in/abhijeet-kumar-39800320b/](https://www.linkedin.com/in/shafayathulla-khan/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shafayathulla-khan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&label=in&labelColor=0077B5" target="_blank" />
   </a>
 </p>
