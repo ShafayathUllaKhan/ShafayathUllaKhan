@@ -122,9 +122,7 @@ Created by [maurodesouza](https://github.com/maurodesouza).
 
 ## 🛠 How to Use
 
-Add the following snippet to your own `README.md`:
 
-```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
