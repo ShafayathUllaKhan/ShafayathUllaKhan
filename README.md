@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&color=E924EF¢er=true&random=false&width=445&lines=Hii+%F0%9F%91%8B+I'+m+Shafayath+Ulla+Khan" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&color=E924EF¢er=true&random=false&width=450&lines=Hii+%F0%9F%91%8B+I'+m+Shafayath+Ulla+Khan" />
 </h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
