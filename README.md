@@ -3,23 +3,23 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&color=E924EF¢er=true&random=false&width=435&lines=Hii+%F0%9F%91%8B+I'+m+Abhijeet+Kumar" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&color=E924EF¢er=true&random=false&width=435&lines=Hii+%F0%9F%91%8B+I'+m+Shafayath+Ulla+Khan" />
 </h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
 <br/>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abhithakur7080&label=Profile%20views&color=503096&style=for-the-badge" alt="abhithakur7080" />
+    <img src="https://komarev.com/ghpvc/?username=ShafayathUllaKhan&label=Profile%20views&color=503096&style=for-the-badge" alt="shafayath" />
   <a href="https://abhijeet-kumar-7080-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=superuser&logoColor=ffffff&labelColor=gray&color=E924EF" target="_blank" />
   </a>
-<a href="mailto:abhijeetthakur7080@gmail.com">
+<a href="mailto:shafayathullakhan1998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
     
-  <a href="https://www.linkedin.com/in/abhijeet-kumar-39800320b/" target="_blank">
+  <a href="[https://www.linkedin.com/in/abhijeet-kumar-39800320b/](https://www.linkedin.com/in/shafayathulla-khan/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&label=in&labelColor=0077B5" target="_blank" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 
  </div>
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhithakur7080&theme=radical" alt="abhithakur7080" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShafayathUllaKhan&theme=radical" alt="ShafayathUllaKhan" /></a> </p>
 
  
 <h2 align="center">⚒ Languages Frameworks Tools ⚒</h2>
@@ -66,14 +66,14 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhithakur7080&theme=synthwave&hide_border=false"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=abhithakur7080&theme=synthwave&show_icons=true&locale=en"/><br/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhithakur7080&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafayathUllaKhan&theme=synthwave&hide_border=false"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ShafayathUllaKhan&theme=synthwave&show_icons=true&locale=en"/><br/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafayathUllaKhan&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ### 🔝 Top Contributed Repo
 <p>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Abhithakur7080&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=ShafayathUllaKhan&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
@@ -84,3 +84,9 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
